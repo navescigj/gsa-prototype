@@ -1,1 +1,1 @@
-ultralytics 8.1.8 new model.save('filename.pt') method (#7886)
+Add visuals in guides/distance-calculation.md (#7876)
