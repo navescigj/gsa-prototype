@@ -1,1 +1,1 @@
-fix predict with class filter
+Update mkdocs-ultralytics-plugin>=0.0.44 (#8347)
