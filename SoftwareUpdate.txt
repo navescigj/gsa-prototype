@@ -1,1 +1,1 @@
-Add docstrings to new HUB functions (#7576)
+Feature: Create HUB Models from CLI or Python Script (#7316)
