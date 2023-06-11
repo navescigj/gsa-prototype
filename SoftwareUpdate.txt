@@ -1,1 +1,1 @@
-ultralytics 8.1.18 add cmake for building onnxsim on aarch64 (#8395)
+Embed Heatmaps YouTube video in Ultralytics Docs (#7129)
