@@ -1,1 +1,1 @@
-Add CoreML Docs Integrations Page (#8063)
+Add docstrings to new HUB functions (#7576)
