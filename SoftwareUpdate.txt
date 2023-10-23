@@ -1,1 +1,1 @@
-example Google Colab
+Add CoreML Docs Integrations Page (#8063)
