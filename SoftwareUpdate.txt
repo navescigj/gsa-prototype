@@ -1,1 +1,1 @@
-Update pyproject.toml [tool.pytest.ini_options] (#9259)
+Fix names bug when exporting YOLOv8-World to ONNX (#8941)
