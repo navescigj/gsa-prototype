@@ -1,1 +1,1 @@
-ultralytics 8.0.228 add training time argument (#7054)
+Add plot_images conf_thresh parameter (#8446)
