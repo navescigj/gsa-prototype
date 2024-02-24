@@ -1,1 +1,1 @@
-Add OBB benchmarks to CI (#7777)
+ultralytics 8.1.1 Docs, Solutions and Export updates (#7545)
