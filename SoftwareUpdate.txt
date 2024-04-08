@@ -1,1 +1,1 @@
-Add OBB models to GITHUB_ASSET_NAMES (#7425)
+Fix solution functions description + integrations/openvino.md cover image update (#8170)
