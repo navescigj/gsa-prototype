@@ -1,1 +1,1 @@
-Improve Docs arguments tables (#8415)
+Fix TypeError in check_cfg() (#9245)
